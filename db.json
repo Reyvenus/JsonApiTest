@@ -33,5 +33,17 @@
       "email": "profeMendoza@gmail.com",
       "password": "profe456"
     }
+  ],
+  "comercios" :[
+    {
+      "id": 1,
+      "comercio": "agropecuaria mealla",
+      "celular": 3885130544
+    },
+     {
+      "id": 2,
+      "comercio": "parque botanico",
+      "celular": 3885858884
+    }
   ]
 }
