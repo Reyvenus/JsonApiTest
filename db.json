@@ -38,11 +38,13 @@
     {
       "id": 1,
       "comercio": "agropecuaria mealla",
+      "email": "rosamelano@gmail.com"
       "celular": 3885130544
     },
      {
       "id": 2,
       "comercio": "parque botanico",
+      "email": "puchito@yahoo.com"
       "celular": 3885858884
     }
   ]
